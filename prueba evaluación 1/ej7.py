@@ -17,3 +17,4 @@ except ValueError as e:
     print(f"Error: {e}")
 
 print("Inventario actualizado:", inventario)
+
